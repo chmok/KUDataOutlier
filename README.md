@@ -20,6 +20,7 @@ DataFrame 형태의 시계열 데이터를 입력으로 활용하는 time series
   * GRU hyperparameter 
   * 1D CNN  hyperparameter 
 <br>
+
 ```c
 python time series classification.py --model='lstm' \
                                      --attention=False \
@@ -28,6 +29,7 @@ python time series classification.py --model='lstm' \
                                      --dropout=0.1 \
                                      --bidirectional=False \
 ```
+<br><br>
 
 #### 시계열 분류 모델 hyperparameter <br>
 
