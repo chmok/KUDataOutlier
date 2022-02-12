@@ -58,8 +58,7 @@ python time series classification.py --model='lstm' \
 <br><br>
 ## 2. With data representation
 - 일정한 형식의 representation을 입력으로 활용하는 classification에 대한 설명.
-- 입력 데이터 형태 : P (P>=2) 차원 벡터
-- <br>
+- 입력 데이터 형태 : P (P>=2) 차원 벡터<br>
 
 
 ```c
