@@ -9,6 +9,7 @@ DataFrame 형태의 시계열 데이터를 입력으로 활용하는 time series
 
 **time series classification 사용 시, 설정해야하는 값**
 
+* 입력 데이터 형태 : TXP (P>=2) 차원의 다변량 시계열 데이터(multivariate time-series data)
 * **시계열 분류 모델 :**
   * LSTM
   * GRU
