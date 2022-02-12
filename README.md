@@ -3,7 +3,8 @@
 <br><br><br>
 ## 1. Without data representation
 
-DataFrame 형태의 시계열 데이터를 입력으로 활용하는 time series classification에 대한 설명.
+- DataFrame 형태의 시계열 데이터를 입력으로 활용하는 time series classification에 대한 설명.
+- 입력 데이터 형태 : TXP (P>=2) 차원의 다변량 시계열 데이터(multivariate time-series data)
 <br>
 <br>
 
@@ -56,7 +57,9 @@ python time series classification.py --model='lstm' \
 
 <br><br>
 ## 2. With data representation
-- 일정한 형식의 representation을 입력으로 활용하는 classification에 대한 설명. <br>
+- 일정한 형식의 representation을 입력으로 활용하는 classification에 대한 설명.
+- 입력 데이터 형태 : P (P>=2) 차원 벡터
+- <br>
 
 
 ```c
